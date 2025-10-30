@@ -36,3 +36,9 @@ audio {
 .compuesto {
     color: rgb(123, 201, 6);
 }
+i {
+    font-size: 25px;
+}
+#help {
+    margin-bottom: 15px;
+}
